@@ -1,0 +1,33 @@
+{
+  "name": "AdobeSign",
+  "version": "0.1.0",
+  "summary": "An iOS SDK for Adobe Sign.",
+  "description": "This CocoaPod facilitates the integration of iOS apps with Adobe Sign by handling the OAuth dance and REST calls with Adobe's servers.",
+  "homepage": "https://github.com/elliott.bolzan@facebook.com/AdobeSign",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "elliott.bolzan@facebook.com": "elliott.bolzan@duke.edu"
+  },
+  "source": {
+    "git": "https://github.com/elliott.bolzan@facebook.com/AdobeSign.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "AdobeSign/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "SwiftyJSON": [
+
+    ],
+    "KeychainSwift": [
+
+    ]
+  }
+}

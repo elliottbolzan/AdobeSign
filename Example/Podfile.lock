@@ -1,0 +1,58 @@
+PODS:
+  - AdobeSign (0.1.0):
+    - Alamofire
+    - KeychainSwift
+    - SwiftyJSON
+  - Alamofire (4.5.0)
+  - Eureka (3.0.0)
+  - KeychainSwift (8.0.2)
+  - MRProgress (0.8.3):
+    - MRProgress/ActivityIndicator (= 0.8.3)
+    - MRProgress/Blur (= 0.8.3)
+    - MRProgress/Circular (= 0.8.3)
+    - MRProgress/Icons (= 0.8.3)
+    - MRProgress/NavigationBarProgress (= 0.8.3)
+    - MRProgress/Overlay (= 0.8.3)
+  - MRProgress/ActivityIndicator (0.8.3):
+    - MRProgress/Stopable
+  - MRProgress/Blur (0.8.3):
+    - MRProgress/Helper
+  - MRProgress/Circular (0.8.3):
+    - MRProgress/Helper
+    - MRProgress/ProgressBaseClass
+    - MRProgress/Stopable
+  - MRProgress/Helper (0.8.3)
+  - MRProgress/Icons (0.8.3)
+  - MRProgress/NavigationBarProgress (0.8.3):
+    - MRProgress/ProgressBaseClass
+  - MRProgress/Overlay (0.8.3):
+    - MRProgress/ActivityIndicator
+    - MRProgress/Blur
+    - MRProgress/Circular
+    - MRProgress/Helper
+    - MRProgress/Icons
+  - MRProgress/ProgressBaseClass (0.8.3)
+  - MRProgress/Stopable (0.8.3):
+    - MRProgress/Helper
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - AdobeSign (from `../`)
+  - Eureka
+  - MRProgress
+
+EXTERNAL SOURCES:
+  AdobeSign:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AdobeSign: a50485fe2e150c4930185223fb36165e8f21e8ef
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Eureka: f36fd440c3ebb7bfea0a4fbe6f16a05f1cb35906
+  KeychainSwift: 213db04dfe7244988e61f77c72a2afb2f775954a
+  MRProgress: 16de7cc9f347e8846797a770db102a323fe7ef09
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: d8e937c02fad478341fde47503fd097c4b6ae7f6
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,6 @@
+framework module AdobeSign {
+  umbrella header "AdobeSign-umbrella.h"
+
+  export *
+  module * { export * }
+}

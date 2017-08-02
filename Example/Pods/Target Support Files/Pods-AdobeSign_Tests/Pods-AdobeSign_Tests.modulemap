@@ -1,0 +1,6 @@
+framework module Pods_AdobeSign_Tests {
+  umbrella header "Pods-AdobeSign_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

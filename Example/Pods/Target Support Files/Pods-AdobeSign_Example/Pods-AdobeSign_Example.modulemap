@@ -1,0 +1,6 @@
+framework module Pods_AdobeSign_Example {
+  umbrella header "Pods-AdobeSign_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

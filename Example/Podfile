@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'AdobeSign_Example' do
+  pod 'AdobeSign', :path => '../'
+  pod 'Eureka'
+  pod 'MRProgress'
+  target 'AdobeSign_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
