@@ -35,7 +35,6 @@ This CocoaPod facilitates the integration of iOS apps with Adobe Sign by handlin
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'Alamofire'
   s.dependency 'SwiftyJSON'
   s.dependency 'KeychainSwift'
