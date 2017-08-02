@@ -74,7 +74,7 @@ Additional samples are included in the Example project.
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-Then, replace the 4 instances of `<YOURS>` in `AppDelegate.swift` by the appropriate values.
+Then, replace the 4 instances of `<YOURS>` in `AppDelegate.swift` and the 1 instance in `AgreementViewController.swift` by the appropriate values.
 
 Build and run, and you should be good to go!
 
