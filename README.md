@@ -1,6 +1,5 @@
 # AdobeSign
 
-[![CI Status](http://img.shields.io/travis/elliott.bolzan@facebook.com/AdobeSign.svg?style=flat)](https://travis-ci.org/elliott.bolzan@facebook.com/AdobeSign)
 [![Version](https://img.shields.io/cocoapods/v/AdobeSign.svg?style=flat)](http://cocoapods.org/pods/AdobeSign)
 [![License](https://img.shields.io/cocoapods/l/AdobeSign.svg?style=flat)](http://cocoapods.org/pods/AdobeSign)
 [![Platform](https://img.shields.io/cocoapods/p/AdobeSign.svg?style=flat)](http://cocoapods.org/pods/AdobeSign)
